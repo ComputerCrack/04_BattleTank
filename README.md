@@ -1,2 +1,3 @@
-# 04_BattleTank
+# BattleTank
+---
 A simple open-world BattleTank game for Training purposes.
